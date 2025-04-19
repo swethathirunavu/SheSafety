@@ -1,0 +1,7 @@
+streamlit
+geocoder
+folium
+geopy
+streamlit-folium
+smtplib
+streamlit-authenticator
